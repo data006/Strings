@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\bin\Debug\StringVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\bin\Debug\StringVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\bin\Debug\StringVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\bin\Debug\StringVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.frmStringVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\StringVB\StringVB\obj\Debug\StringVB.pdb

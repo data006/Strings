@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\bin\Debug\StringCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\bin\Debug\StringCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\bin\Debug\StringCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.StringCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\12\cs\StringCS\StringCS\obj\Debug\StringCS.pdb
